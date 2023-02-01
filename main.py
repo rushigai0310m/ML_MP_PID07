@@ -1,10 +1,4 @@
 
-"""Machine Learning Miniproject 
-BE A 25 Rushikesh Patil
-BE A 26 Rushikesh Gaikwad
-BE A 27 Pranjal Aher
-BE A 28 Rahul Sonawane"""
-
 import numpy as np
 
 # Commented out IPython magic to ensure Python compatibility.
